@@ -1,0 +1,6 @@
+apiVersion: "0.3.1"
+app_name: nxop-flightops-skills
+cmdbAppShortName:
+  - 'TkfPrfItNx'
+squads:
+  - 4721185 # FlightOps Aviators
